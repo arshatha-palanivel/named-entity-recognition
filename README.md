@@ -11,17 +11,29 @@ Named Entity Recognition (NER) is pivotal in natural language processing (NLP), 
 ## Dataset
 
 Word: English dictionary words from the sentences.
+
 POS (Parts of Speech): POS tags indicating the grammatical category of each word.
+
 Tag: Standard named entity recognition tags, including:
+
 ORGANIZATION
+
 PERSON
+
 LOCATION
+
 DATE
+
 TIME
+
 MONEY
+
 PERCENT
+
 FACILITY
+
 GPE (Geo-Political Entity)
+
 
 ## DESIGN STEPS
 
